@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.main {
+  margin-top: -2rem;
+  width: 736px;
+  height: 336px;
+  /* border: solid red 1px; */
+}
