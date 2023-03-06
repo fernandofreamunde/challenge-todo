@@ -11,3 +11,15 @@
   border-radius: 8px;
 }
 
+.emptyState {
+  padding: 3rem;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  color: var(--gray-300);
+  font-size: .875 rem;
+}
+
+.emptyState img{
+  margin: 1rem;
+}

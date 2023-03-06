@@ -1,18 +1,20 @@
 
 .textBlue {
   font-weight: 700;
-  font-size: .75;
+  font-size: .875rem;
 
   color: var(--blue-300);
 }
 
 .textPurple {
   font-weight: 700;
-  font-size: .75;
+  font-size: .875rem;
   color: var(--purple-300);
 }
 
 .badge {
+  font-size: .875rem;
+  font-weight: 400;
   color: var(--gray-100);
   margin-left: .5rem;
 
